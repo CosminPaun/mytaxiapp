@@ -7,7 +7,7 @@ jobs:
   build:
     docker:
       # specify the version you desire here
-      - image: circleci/android:api-25
+      - image: circleci/android
 
       # Specify service dependencies here if necessary
       # CircleCI maintains a library of pre-built images
