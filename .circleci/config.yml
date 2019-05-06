@@ -6,7 +6,7 @@ jobs:
       - image: circleci/android:api-25
     environment:
       JVM_OPTS: -Xmx3200m
-      ANDROID_HOME: /usr/local/android-sdk-linux
+      ANDROID_HOME: /opt/android/sdk
       ANDROID_BUILD_TOOLS: 25.0.2
     steps:
       - checkout
