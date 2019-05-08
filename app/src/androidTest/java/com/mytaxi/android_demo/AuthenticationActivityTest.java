@@ -1,8 +1,9 @@
-package com.mytaxi.android_demo.activities;
+package com.mytaxi.android_demo;
 
 import android.support.test.runner.AndroidJUnit4;
 
 import com.mytaxi.android_demo.R;
+import com.mytaxi.android_demo.activities.AuthenticationActivity;
 
 import org.junit.Rule;
 import org.junit.Test;

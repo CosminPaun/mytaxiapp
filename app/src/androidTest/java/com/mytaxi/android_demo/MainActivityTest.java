@@ -1,9 +1,10 @@
-package com.mytaxi.android_demo.activities;
+package com.mytaxi.android_demo;
 
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
 
 import com.mytaxi.android_demo.R;
+import com.mytaxi.android_demo.activities.MainActivity;
 
 import org.hamcrest.Matcher;
 import org.junit.After;
